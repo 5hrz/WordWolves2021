@@ -130,7 +130,7 @@ class Config {
     /**
      * ゲームに使用するDiscordサーバーのID
      */
-    var guild: Long = 932952286051840041L
+    var guild: Long = -1
 
     /**
      * ゲームに使用するメイン会場のVCのID
